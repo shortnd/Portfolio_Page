@@ -19,8 +19,24 @@ nav ul {
 #projects {
   height: 50vh;
 }
+h1 {
+  font-size: 100px;
+  color: white;
+}
+h3 {
+  font-size: 50px;
+  color: white;
+}
 h2 {
   text-align: center;
   font-weight: bold;
   font-size: 50px;
+}
+#projects p {
+  text-align: center;
+  font-size: 100px;
+}
+#contact ul {
+  display: flex;
+  justify-content: space-around;
 }
